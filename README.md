@@ -8,4 +8,4 @@ Resources used for the talks
 - EURO 2025 (22-25 June 2025, University of Leeds, UK)
 - MIMO (17-18 February 2025, University of Kaiserslautern-Landau, Germany)
 - 2023 ÖGOR Summer-Workshop for PhD-candidates and Post-Docs (3-4 August 2023, Krems, Austria)
-- JKU-Linz (summer 2021 and 2022, Johannes Kepler University Linz, Austria)
+- JKU-Linz (summer 2021 and 2022, Johannes Kepler University Linz, Austria) 
