@@ -1,5 +1,5 @@
 # Talks
-Resources used for the talks
+Slides and resources used for the talks
 
 - 2026 EURO Ph.D. Summer School on MCDA/MCDM (July 19 – August 1, 2026. TU-Delft, the Netherlands)
 - ATOM 2026 (1er juillet 2026,  LIP6 - Paris, France)
