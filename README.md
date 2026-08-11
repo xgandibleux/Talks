@@ -16,3 +16,4 @@ Slides and resources used for the talks
 - JKU-Linz (summer 2021 and 2022, Johannes Kepler University Linz, Austria) 
 - JuliaCon 2021 (July 28-30, 2021. Online conference)
 - Modem 2021 (July 14 to 16, 2021. Online conference)
+- ROADEF 2021 (26-30 avril 2021. Online conference)
