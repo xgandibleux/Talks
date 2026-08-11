@@ -15,3 +15,4 @@ Slides and resources used for the talks
 - 2023 ÖGOR Summer-Workshop for PhD-candidates and Post-Docs (3-4 August 2023, Krems, Austria)
 - JKU-Linz (summer 2021 and 2022, Johannes Kepler University Linz, Austria) 
 - JuliaCon 2021 (July 28-30, 2021. Online conference)
+- Modem 2021 (July 14 to 16, 2021. Online conference)
