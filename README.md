@@ -8,5 +8,8 @@ Slides and resources used for the talks
 - RAMOO 2025 (11-12 September 2025, TU-Munich @ Straubing, Germany)
 - EURO 2025 (22-25 June 2025, University of Leeds, UK)
 - MIMO (17-18 February 2025, University of Kaiserslautern-Landau, Germany)
+- MIC 2024 (June 4-7, 2024, Lorient, France)
+- JuliaCon 2023 (July 25 - 29, 2023. MIT, Cambridge, USA) 
 - 2023 ÖGOR Summer-Workshop for PhD-candidates and Post-Docs (3-4 August 2023, Krems, Austria)
 - JKU-Linz (summer 2021 and 2022, Johannes Kepler University Linz, Austria) 
+- JuliaCon 2021 (July 28-30, 2021. Online conference)
