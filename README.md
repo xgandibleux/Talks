@@ -5,6 +5,7 @@ Slides and resources used for the talks
 - ATOM 2026 (1er juillet 2026,  LIP6 - Paris, France)
 - RR 2026 (15 juin 2026, Nantes, France)
 - MCDM 2026 (May 25-29, 2026. University of Wuppertal, Germany)
+- ROADEF 2026 (24-26 février 2026. Université de Tours, France)
 - RAMOO 2025 (11-12 September 2025, TU-Munich @ Straubing, Germany)
 - EURO 2025 (22-25 June 2025, University of Leeds, UK)
 - MIMO (17-18 February 2025, University of Kaiserslautern-Landau, Germany)
