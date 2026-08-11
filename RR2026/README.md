@@ -1,6 +1,6 @@
 # RR2026 - Nantes
 Journée Julia pour les statistiques et science des données du Groupe Calcul CNRS    
-Evénement satellite aux RR2026 du groupe Calcul
+Evénement satellite aux "Rencontres R 2026" du groupe Calcul
 
 ### Matériel
 - slides utilisés
